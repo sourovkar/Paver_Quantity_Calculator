@@ -1,0 +1,65 @@
+* {
+    background-color: rgb(245, 245, 239);
+}
+
+.input-area {
+    color: re;
+}
+
+.output-area {
+    background-color: blue;
+    padding: 1%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    }
+
+/* 
+
+.bg-white {
+    background-color: white;
+}
+
+.font-purple-bold {
+    color: #5A537B;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#input-area {
+    background-color: #6943FF;
+    padding: 20px;
+}
+
+#output-area {
+    background-color: #F4F4F4;
+}
+
+#num-input {
+    box-sizing: border-box;
+    width: 80px;
+    height: 80px;
+    border: 2px;
+    border-radius: 2px;
+    font-size: large;
+    font-weight: bold;
+    align-items: center;
+
+}
+
+#convert-btn {
+    border: 5px;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 5px 20px;
+}
+*/
