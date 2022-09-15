@@ -1,20 +1,19 @@
 * {
-    background-color: rgb(245, 245, 239);
+    background-color: whitesmoke;
 }
 
 .input-area {
-    color: re;
+    color: red;
 }
 
 .output-area {
     background-color: blue;
-    padding: 1%;
+    padding: 1rem;
 }
 
 body {
     display: flex;
     flex-direction: column;
-    
     align-items: center;
     margin: auto;
     width: 80%;
